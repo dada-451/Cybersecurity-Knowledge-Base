@@ -1,0 +1,20 @@
+# Do not publish raw challenges, executable samples or private data
+*.pcap
+*.pcapng
+*.ubx
+*.iq
+*.exe
+*.dll
+*.jar
+*.xlsm
+*.zip
+*.7z
+*.rar
+*.bin
+*.gz
+*.onnx
+*.mp4
+*.mov
+*.avi
+*.log
+.env
