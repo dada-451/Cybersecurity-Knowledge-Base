@@ -1,0 +1,14 @@
+# 本目录公开作品集记录；完整实验数据保留在本地项目。
+.venv/
+venv/
+__pycache__/
+.cache/
+数据资产/
+实跑结果*/
+人工复核参考/
+private/
+*.xlsx
+*.rar
+*.zip
+*.log
+.env
